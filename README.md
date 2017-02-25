@@ -1,5 +1,6 @@
 # html-workshop
-HTML workshop
+In this workshop, you will learn some basic of HTML, Javascript and CSS.
+The task is to create your own personal webpage.
 
 ## Files
 1. `main.html` - Main html file
@@ -13,5 +14,6 @@ HTML workshop
 3. Pin your home location on Google Map
 4. Add your favorite vdo from Youtube
 5. Draw any picture on canvas *
+6. Decorate your website using CSS *
 
 #Enjoy HTML!
