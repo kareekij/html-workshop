@@ -1,7 +1,8 @@
 function google_map_initialize() {
-    var myLatlng = new google.maps.LatLng(43.565529, -80.197645);
+    // Change the latitude and longitude
+    var myLatlng = new google.maps.LatLng(43.037645, -76.132697);
     var mapOptions = {
-        zoom: 8,
+        zoom: 17,
         center: myLatlng,
         mapTypeId: google.maps.MapTypeId.ROADMAP
     }
